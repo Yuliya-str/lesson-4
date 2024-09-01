@@ -1,0 +1,11 @@
+name='Sveta'
+print(name)
+age=35
+print(age)
+age=35+1
+print(age)
+age+=2
+print(age)
+is_student=True
+print(is_student)
+print(f"name:{name}")
